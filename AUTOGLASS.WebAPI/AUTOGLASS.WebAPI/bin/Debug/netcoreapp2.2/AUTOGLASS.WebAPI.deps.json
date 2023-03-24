@@ -29,6 +29,7 @@
     ".NETCoreApp,Version=v2.2": {
       "AUTOGLASS.WebAPI/1.0.0": {
         "dependencies": {
+          "AUTOGLASS.Repo": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0"
@@ -38,6 +39,25 @@
         },
         "compile": {
           "AUTOGLASS.WebAPI.dll": {}
+        }
+      },
+      "AUTOGLASS.Dominio/1.0.0": {
+        "runtime": {
+          "AUTOGLASS.Dominio.dll": {}
+        },
+        "compile": {
+          "AUTOGLASS.Dominio.dll": {}
+        }
+      },
+      "AUTOGLASS.Repo/1.0.0": {
+        "dependencies": {
+          "AUTOGLASS.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "AUTOGLASS.Repo.dll": {}
+        },
+        "compile": {
+          "AUTOGLASS.Repo.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3238,6 +3258,16 @@
   },
   "libraries": {
     "AUTOGLASS.WebAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AUTOGLASS.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AUTOGLASS.Repo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

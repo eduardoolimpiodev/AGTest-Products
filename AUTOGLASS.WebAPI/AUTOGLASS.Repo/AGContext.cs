@@ -1,11 +1,11 @@
-﻿using AUTOGLASS.WebAPI.Models;
+﻿using AUTOGLASS.Dominio;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AUTOGLASS.WebAPI.Data
+namespace AUTOGLASS.Repo
 {
     public class AGContext : DbContext
     {

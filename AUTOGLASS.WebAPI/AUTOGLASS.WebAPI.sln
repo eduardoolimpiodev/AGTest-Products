@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUTOGLASS.WebAPI", "AUTOGLASS.WebAPI\AUTOGLASS.WebAPI.csproj", "{DE675FB6-D149-49B6-81CC-D5C6B35A1128}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUTOGLASS.Dominio", "AUTOGLASS.Dominio\AUTOGLASS.Dominio.csproj", "{AFE78D2C-8CBC-49F5-9B1F-380AC1BA2A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUTOGLASS.Repo", "AUTOGLASS.Repo\AUTOGLASS.Repo.csproj", "{45751AEC-BD28-4587-9EA4-11CE4499F3CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DE675FB6-D149-49B6-81CC-D5C6B35A1128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE675FB6-D149-49B6-81CC-D5C6B35A1128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE675FB6-D149-49B6-81CC-D5C6B35A1128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE78D2C-8CBC-49F5-9B1F-380AC1BA2A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE78D2C-8CBC-49F5-9B1F-380AC1BA2A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE78D2C-8CBC-49F5-9B1F-380AC1BA2A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE78D2C-8CBC-49F5-9B1F-380AC1BA2A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45751AEC-BD28-4587-9EA4-11CE4499F3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45751AEC-BD28-4587-9EA4-11CE4499F3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45751AEC-BD28-4587-9EA4-11CE4499F3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45751AEC-BD28-4587-9EA4-11CE4499F3CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.deps.json
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.pdb
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.AssemblyInfo.cs
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Dominio\obj\Debug\netcoreapp2.2\AUTOGLASS.Dominio.pdb

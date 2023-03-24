@@ -1,0 +1,16 @@
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.AssemblyInfo.cs
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.deps.json
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.runtimeconfig.json
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.runtimeconfig.dev.json
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.pdb
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.pdb
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.csproj.CopyComplete
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.pdb
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.Repo\obj\Debug\netcoreapp2.2\AUTOGLASS.Repo.genruntimeconfig.cache

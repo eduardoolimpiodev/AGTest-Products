@@ -4438,6 +4438,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "AUTOGLASS.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/AUTOGLASS.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AUTOGLASS.Dominio.dll": {}
+        }
+      },
+      "AUTOGLASS.Repo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "AUTOGLASS.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AUTOGLASS.Repo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AUTOGLASS.Repo.dll": {}
+        }
       }
     }
   },
@@ -12146,10 +12169,21 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "AUTOGLASS.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../AUTOGLASS.Dominio/AUTOGLASS.Dominio.csproj",
+      "msbuildProject": "../AUTOGLASS.Dominio/AUTOGLASS.Dominio.csproj"
+    },
+    "AUTOGLASS.Repo/1.0.0": {
+      "type": "project",
+      "path": "../AUTOGLASS.Repo/AUTOGLASS.Repo.csproj",
+      "msbuildProject": "../AUTOGLASS.Repo/AUTOGLASS.Repo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "AUTOGLASS.Repo >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -12188,7 +12222,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\eduar\\Desktop\\AGTest-Products\\AUTOGLASS.WebAPI\\AUTOGLASS.Repo\\AUTOGLASS.Repo.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AGTest-Products\\AUTOGLASS.WebAPI\\AUTOGLASS.Repo\\AUTOGLASS.Repo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

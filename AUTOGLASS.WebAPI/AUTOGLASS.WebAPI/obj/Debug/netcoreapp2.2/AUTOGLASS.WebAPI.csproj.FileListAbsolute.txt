@@ -16,3 +16,8 @@ C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\obj\Deb
 C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\obj\Debug\netcoreapp2.2\AUTOGLASS.WebAPI.dll
 C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\obj\Debug\netcoreapp2.2\AUTOGLASS.WebAPI.pdb
 C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\obj\Debug\netcoreapp2.2\AUTOGLASS.WebAPI.genruntimeconfig.cache
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.dll
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\bin\Debug\netcoreapp2.2\AUTOGLASS.Repo.pdb
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\bin\Debug\netcoreapp2.2\AUTOGLASS.Dominio.pdb
+C:\Users\eduar\Desktop\AGTest-Products\AUTOGLASS.WebAPI\AUTOGLASS.WebAPI\obj\Debug\netcoreapp2.2\AUTOGLASS.WebAPI.csproj.CopyComplete

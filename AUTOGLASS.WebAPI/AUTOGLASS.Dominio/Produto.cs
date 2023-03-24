@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AUTOGLASS.WebAPI.Models
+namespace AUTOGLASS.Dominio
 {
     public class Produto
     {
